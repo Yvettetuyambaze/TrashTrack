@@ -4,7 +4,7 @@
 
 TrashTrack Rwanda is an interactive **HTML prototype** for a waste-management platform: bilingual marketing site (English / Ikinyarwanda), a multi-role web app, company pricing, GIS maps, household registration with QR contracts, and MoMo auto-payment flows.
 
-> This repository is a **front-end prototype** for demonstration and coursework. There is no backend, database, or real payment integration.
+> This repository is a **front-end prototype** for demonstration. There is no backend, database, or real payment integration.
 
 ---
 
@@ -13,7 +13,7 @@ TrashTrack Rwanda is an interactive **HTML prototype** for a waste-management pl
 After you enable Pages, your site will be available at:
 
 ```text
-https://YOUR_GITHUB_USERNAME.github.io/REPO_NAME/
+https://github.com/Yvettetuyambaze/TrashTrack
 ```
 
 | Page | URL |
@@ -60,7 +60,6 @@ Trashtrack_protoype/
 └── README.md
 ```
 
-Optional local files (not required for the live demo): business plan PDF, extra images.
 
 ---
 
@@ -121,19 +120,17 @@ No build step or Node.js required.
 
 Prototype developed for waste-collection operations in **Kigali, Rwanda**, aligned with the TrashTrack Rwanda business concept (household SMS reach, company dashboards, driver routes, MoMo, and transparency).
 
-**Institution:** Glasgow Caledonian University (project / dissertation prototype).
-
 ---
 
 ## License
 
-This project is provided for **educational and demonstration purposes**. Add a license file (e.g. MIT) if you plan to open-source it formally.
+This project is provided for **demonstration purposes**. 
 
 ---
 
 ## Contact
 
-- **Email:** hello@trashtrack.rw *(demo)*
+- **Email:**y.tuyambaze@alumni.alueducation.com *(demo)*
 - **Location:** Kigali, Rwanda
 
 For issues or feedback on the prototype, open a GitHub **Issue** on this repository.
